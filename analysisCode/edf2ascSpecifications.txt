@@ -1,6 +1,7 @@
 Hi Jolande.
 
 Here's a list of other options that you can enter in the command line version of EDF2ASC:
+try
 
 EDF2ASC:
 OPTIONS: -p <path> writes output with same name to <path> directory
@@ -42,7 +43,7 @@ Use  -utf8/-UTF8 to force the output file to be opened using utf-8 encoding form
 -ntarget to disable target data for EyeLink1000 Remote data files.
 
 
-For the weirdly-scaled data, if you’d like me to take a look then please send me the original EDF file and the ASC file.  Please also describe what you mean when you say weirdly scaled — that will help me to understand the issue.
+For the weirdly-scaled data, if youâ€™d like me to take a look then please send me the original EDF file and the ASC file.  Please also describe what you mean when you say weirdly scaled â€” that will help me to understand the issue.
 
 Thanks,
 
